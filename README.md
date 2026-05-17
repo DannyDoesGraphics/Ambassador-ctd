@@ -1,5 +1,8 @@
 # Ambassador
 
+> [!WARNING]
+> This branch has been slightly modified to support velocity-ctd. However, this was done largely through **slope vibe coding**. Do not use this in production. I am solely using this for personal environments exclusively.
+
 This is a Velocity plugin that makes it possible to host a modern Forge server behind a Velocity proxy!
 
 Unlike other solutions, this plugin does not require any special modifications to the backend server nor the client. (The player doesn't need to do anything)
